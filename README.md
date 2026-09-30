@@ -22,7 +22,7 @@ My first model had exactly this problem: it only worked when emotions were deliv
 
 **~70% accuracy on the mixed dataset.**
 
-This number is lower than what actor-only models report — and that's the point. It reflects performance on messy, natural speech, which is a far more honest and useful measure of real-world reliability.
+This number is lower than what actor-only models report and that's the point. It reflects performance on messy, natural speech, which is a far more honest and useful measure of real-world reliability.
 
 ## Tech stack
 
