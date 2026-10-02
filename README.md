@@ -1,6 +1,6 @@
 # Speech Emotion Recognition with a Hybrid Dataset
 
-A deep learning system that predicts a speaker's emotion from audio — built to work not just on clean, acted test data, but on **natural, real-world speech**.
+A deep learning system that predicts a speaker's emotion from audio, built to work not just on clean, acted test data, but on **natural, real-world speech**.
 
 ## The problem I wanted to solve
 
